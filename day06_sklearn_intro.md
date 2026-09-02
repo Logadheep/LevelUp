@@ -64,8 +64,8 @@ Commit as `day06_sklearn_intro.ipynb`
 ---
 
 ## End of Day Checklist
-- [ ] Categorical and numeric columns preprocessed correctly
-- [ ] Pipeline built and fitted on training data only
-- [ ] Leakage exercise done and documented in markdown
-- [ ] Classification report interpreted in markdown
-- [ ] Pushed to GitHub
+- [x] Categorical and numeric columns preprocessed correctly
+- [x] Pipeline built and fitted on training data only
+- [x] Leakage exercise done and documented in markdown
+- [x] Classification report interpreted in markdown
+- [x] Pushed to GitHub
